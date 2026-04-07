@@ -2,8 +2,7 @@
 
 int main()
 {
-  //ここにコードを書く
-
+  printf("Hello world");
   
   return 0;
 }
